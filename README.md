@@ -1,6 +1,13 @@
 # Nifty-Next-Day-Close-Binary-Classifier
 
-This is a binary classifier based on 4 commonly used technical indicators. The data is not being treated as a timeseries. Classification has been done using the following models:
+This is a binary classifier based on the following 4 commonly used technical indicators. 
+
+1) ROC
+2) RSI
+3) Volume SMA 
+4) Volatility 
+
+The data is not being treated as a timeseries. Classification has been done using the following models:
 
 1) XG Boost
 2) Random Forest
